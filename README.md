@@ -125,7 +125,6 @@ If you use this script in your work, please cite it as:
   ISSN = {0021-9797},
   url = {http://dx.doi.org/10.1016/j.jcis.2025.138943},
   DOI = {10.1016/j.jcis.2025.138943},
-  keywords={J},
   journal = {Journal of Colloid and Interface Science},
   publisher = {Elsevier BV},
   author = {\textbf{Strugovshchikov,  Evgenii} and Mandrolko,  Viktor and Lesnicki,  Dominika and Pastore,  Mariachiara and Chaput,  Laurent and Isaiev,  Mykola},
